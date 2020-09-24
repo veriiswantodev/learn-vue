@@ -5,6 +5,8 @@ import Contact from "../views/Contact";
 export default {
     mode: "history",
 
+    linkActiveClass: 'active',
+
     routes: [
         {
             path: "/",

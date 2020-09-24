@@ -1,6 +1,6 @@
 <template>
 
-    <div> Ini Contact Page</div>
+    <div class="container"> Ini Contact Page</div>
 
 </template>
 
